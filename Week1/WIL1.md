@@ -7,5 +7,4 @@ Weekly-I-Learned 1
 또한 지금 자기소개와 Weekly-I-Learned를 작성하면서 마크다운 문법이 뭔지 알 수 있었고 마크다운 문법에 대해 더 찾아보면서 마크다운 문법의 장단점도 알게 되었다.  
 처음 하는 활동인지라 우여곡절도 많았지만 강의와 올라온 영상을 꼼꼼히 들어 과제 제출까지 잘 할 수 있었던 것 같다.
 
-https://github.com/chae54/2024-1-Beginner-Study  
-자기소개 레포지터리 https://github.com/chae54/chae54
+https://github.com/chae54/chae54

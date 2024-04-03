@@ -29,5 +29,5 @@ $ git reset ‘--option’ “<commit id>" 로 사용가능하며 option에는 s
 mixed가 default 값이며 reset을 하면 해당 커밋으로 돌아가는데 soft는 Staging area, mixed는 working directory, hard는 모두 제거한다.  
   
 __Git revert__  
-$ git rever "<commit id>" 로 사용하며 해당 커밋을 되돌리기 위한 커밋을 생성한다.  
+$ git revert "<commit id>" 로 사용하며 해당 커밋을 되돌리기 위한 커밋을 생성한다.  
 마찬가지로 --no-edit 을 사용하여 바로 revert가 가능하고 --no-commit을 사용하면 바로 Staging area로 올라간다.

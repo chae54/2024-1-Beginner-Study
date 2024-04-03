@@ -3,7 +3,7 @@ Weekly-I-Learned 3
 
 사전지식
 -------
-__Git log__
+__Git log__  
 commit 기록을 확인할 수 있다.  
 --online 을 붙이면 한줄에 요약 가능 
   

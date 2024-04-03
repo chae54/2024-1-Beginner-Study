@@ -3,17 +3,20 @@ Weekly-I-Learned 3
 
 사전지식
 -------
-__Git log__
+__Git log__  
 commit 기록을 확인할 수 있다.  
---online 을 붙이면 한줄에 요약 가능 
-  
+--online 을 붙이면 한줄에 요약 가능  
+![gitlogoneline](https://github.com/chae54/2024-1-Beginner-Study/assets/128768148/1c58ecc2-af2a-49e8-a7ba-098863ac3787)  
+
 __Commit Id__  
 commit들을 구별하기 위해 사용하는 40자 길이의 16진수  
 시간과 관련이 있고 SHA-1 알고리즘으로 변환된 값   
-  
+![commitid](https://github.com/chae54/2024-1-Beginner-Study/assets/128768148/f40c73b5-fd7c-45d7-8728-87bd63d1e412)  
+
 __HEAD__  
 현재 작업 중인 위치를 가리키며 현재 Branch의 가장 최근 commit  
-  
+![head](https://github.com/chae54/2024-1-Beginner-Study/assets/128768148/2ec35c6f-22ef-43ee-943e-b334fdd90eb0)  
+
 Commit 되돌리기
 --------------  
 __Commit --amend__  
